@@ -14,7 +14,7 @@ This project performs a comprehensive sentiment analysis on a dataset of reviews
 
 - ✅ Text cleaning and preprocessing
 - ✅ Exploratory Data Analysis (EDA)
-- ✅ Sentiment Classification (Positive, Negative, Neutral)
+- ✅ Sentiment Classification (Positive, Negative)
 - ✅ Statistical visualizations and graphs
 - ✅ Model performance metrics
 - ✅ Results export
